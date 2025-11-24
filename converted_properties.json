@@ -2,7 +2,7 @@
     "name": "New Callisto Properties",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1763989607
+        "last_update": 1763989949
     },
     "features": [
         {
@@ -1713,5 +1713,6 @@
         }
     ],
     "enabled_presentation": true,
-    "id": "com.github.jalhf.newcallisto.properties"
+    "id": "com.github.jalhf.newcallisto.properties",
+    "source": "https://raw.githubusercontent.com/jalhf/New-Callisto-Property-Register/main/converted_properties.json"
 }
