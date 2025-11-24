@@ -57,12 +57,12 @@
             "name": "3 Aethia Crossing",
             "x": -3190,
             "z": 8063,
-            "owner": "VACANT",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3190.8063.3AethiaCrossing",
-            "color": "#18cade",
+            "color": "#03f4fc",
             "image": ""
         },
         {
@@ -218,7 +218,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3329.8105.1CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -230,7 +230,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3320.8108.2CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -242,7 +242,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3309.8112.3CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -254,7 +254,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3294.8103.4CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -266,7 +266,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3287.8078.6CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -278,7 +278,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3281.8046.7CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -290,7 +290,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3287.8029.8CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -302,7 +302,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3330.8025.9CapitalSquare",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -417,19 +417,19 @@
             "name": "1 Copper Circuit",
             "x": -3254,
             "z": 8070,
-            "owner": "Reggio Corp",
-            "sale_link": "",
+            "owner": "Kashev",
+            "sale_link": "https://discord.com/channels/1014544662285013053/1437196473908592751",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8070.1CopperCircuit",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
             "name": "10 Copper Circuit",
             "x": -3208,
             "z": 8103,
-            "owner": "Sale",
+            "owner": "",
             "sale_link": "https://discord.com/channels/1014544662285013053/1281962019074871418",
             "level": 4,
             "zoom": 4,
@@ -470,7 +470,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8053.2CopperCircuit",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -710,7 +710,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3267.8022.2FelineAveDr.UrzorkWellnessCenterSale",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -722,7 +722,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3274.8008.3FelineAveDr.UrzorkWellnessCenter",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -734,7 +734,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3274.7993.4FelineAveDr.UrzorkWellnessCenter",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -746,7 +746,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3336.8002.1GlacialWalk",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -758,7 +758,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3324.8004.2GlacialWalk",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -770,7 +770,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3304.7985.3GlacialWalk",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -998,7 +998,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3277.8112.10IronCircuit",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1053,48 +1053,48 @@
             "name": "12 Iron Circuit",
             "x": -3219,
             "z": 8128,
-            "owner": "VACANT",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3219.8128.12IronCircuit",
-            "color": "#18cade",
+            "color": "#03f4fc",
             "image": ""
         },
         {
             "name": "13 Iron Circuit",
             "x": -3209,
             "z": 8133,
-            "owner": "VACANT",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3209.8133.13IronCircuit",
-            "color": "#18cade",
+            "color": "#03f4fc",
             "image": ""
         },
         {
             "name": "14 Iron Circuit",
             "x": -3198,
             "z": 8139,
-            "owner": "VACANT",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3198.8139.14IronCircuit",
-            "color": "#18cade",
+            "color": "#03f4fc",
             "image": ""
         },
         {
             "name": "15 Iron Circuit",
             "x": -3191,
             "z": 8144,
-            "owner": "VACANT",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3191.8144.15IronCircuit",
-            "color": "#18cade",
+            "color": "#03f4fc",
             "image": ""
         },
         {
@@ -1185,12 +1185,12 @@
             "name": "6 Iron Circuit (Unfinished)",
             "x": -3322,
             "z": 8144,
-            "owner": "VACANT",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit",
-            "color": "#18cade",
+            "color": "#03f4fc",
             "image": ""
         },
         {
