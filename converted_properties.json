@@ -1202,7 +1202,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3333.8122.7IronCircuit",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1214,7 +1214,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3312.8122.8IronCircuit",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1226,7 +1226,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3294.8114.9IronCircuit",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1514,7 +1514,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3303.8082.MarketStall",
-            "color": "#03f4fc",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1526,7 +1526,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3310.8092.MarketStall",
-            "color": "#03f4fc",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1538,7 +1538,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3320.8092.MarketStall",
-            "color": "#03f4fc",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1550,7 +1550,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3326.8082.MarketStall",
-            "color": "#03f4fc",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1562,7 +1562,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3344.8138.1TradeTerrace",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1574,7 +1574,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3350.8125.2TradeTerrace",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1586,7 +1586,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3353.8108.3TradeTerrace",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1598,7 +1598,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3367.8037.4TradeTerrace",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1610,7 +1610,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3367.8027.5TradeTerraceRikardasasSale",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1622,7 +1622,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3366.8019.6TradeTerraceZeroQLSale",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1634,7 +1634,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3366.8012.7TradeTerrace_RedSnapperSale",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1646,7 +1646,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3363.7998.8TradeTerraceJeyHeySale",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
@@ -1658,11 +1658,11 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3343.7989.9TradeTerracedemobottleSale",
-            "color": "#18cade",
+            "color": "#2c7d27",
             "image": ""
         },
         {
-            "name": "Needs to be given addresses and finished",
+            "name": "No Address",
             "x": -3163,
             "z": 8168,
             "owner": "",
