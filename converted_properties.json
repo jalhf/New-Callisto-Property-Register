@@ -6,14 +6,14 @@
     },
     "features": [
         {
-            "name": "2 Jalhf StFederal Store",
+            "name": "2 Jalhf St",
             "x": -3254,
             "z": 8105,
-            "owner": "",
+            "owner": "Federal Store",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3254.8105.2JalhfStFederalStore",
+            "id": "com.github.jalhf.newcallisto.3254.8105.2JalhfSt",
             "color": "#03f4fc",
             "image": ""
         },
@@ -810,14 +810,14 @@
             "image": ""
         },
         {
-            "name": "2 Trade TerraceS\u00c3\u00b6derrike",
+            "name": "2 Trade Terrace",
             "x": -3350,
             "z": 8125,
             "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3350.8125.2TradeTerraceS\u00c3\u00b6derrike",
+            "id": "com.github.jalhf.newcallisto.3350.8125.2TradeTerrace",
             "color": "#03f4fc",
             "image": ""
         },
@@ -858,10 +858,10 @@
             "image": ""
         },
         {
-            "name": "2 Feline AveDr. Urzork Wellness CenterSale",
+            "name": "2 Feline Ave",
             "x": -3267,
             "z": 8022,
-            "owner": "",
+            "owner": "Dr. Urzork Wellness Center",
             "sale_link": "https://discord.com/channels/1014544662285013053/1320586868387221575",
             "level": 4,
             "zoom": 4,
@@ -870,10 +870,10 @@
             "image": ""
         },
         {
-            "name": "3 Feline AveDr. Urzork Wellness Center",
+            "name": "3 Feline Ave",
             "x": -3274,
             "z": 8008,
-            "owner": "Sale",
+            "owner": "Dr. Urzork Wellness Center",
             "sale_link": "https://discord.com/channels/1014544662285013053/1320587143831097354",
             "level": 4,
             "zoom": 4,
@@ -882,10 +882,10 @@
             "image": ""
         },
         {
-            "name": "4 Feline AveDr. Urzork Wellness Center",
+            "name": "4 Feline Ave",
             "x": -3274,
             "z": 7993,
-            "owner": "Sale",
+            "owner": "Dr. Urzork Wellness Center",
             "sale_link": "https://discord.com/channels/1014544662285013053/1320588524730454016",
             "level": 4,
             "zoom": 4,
@@ -1434,10 +1434,10 @@
             "image": ""
         },
         {
-            "name": "4 Trade TerraceHegghogamingSale",
+            "name": "4 Trade Terrace",
             "x": -3367,
             "z": 8037,
-            "owner": "",
+            "owner": "Hegghogaming",
             "sale_link": "https://discord.com/channels/1014544662285013053/1357867951956561940/1398043896394678544",
             "level": 4,
             "zoom": 4,
@@ -1446,22 +1446,22 @@
             "image": ""
         },
         {
-            "name": "1 Trade TerraceS\u00c3\u00b6derrike",
+            "name": "1 Trade Terrace",
             "x": -3344,
             "z": 8138,
-            "owner": "",
+            "owner": "Soderrike",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3344.8138.1TradeTerraceS\u00c3\u00b6derrike",
+            "id": "com.github.jalhf.newcallisto.3344.8138.1TradeTerraceSoderrike",
             "color": "#03f4fc",
             "image": ""
         },
         {
-            "name": "5 Trade TerraceRikardasasSale",
+            "name": "5 Trade Terrace",
             "x": -3367,
             "z": 8027,
-            "owner": "",
+            "owner": "Rikardasas",
             "sale_link": "https://discord.com/channels/1014544662285013053/1357868323819229294",
             "level": 4,
             "zoom": 4,
@@ -1470,10 +1470,10 @@
             "image": ""
         },
         {
-            "name": "6 Trade TerraceZeroQLSale",
+            "name": "6 Trade Terrace",
             "x": -3366,
             "z": 8019,
-            "owner": "",
+            "owner": "ZeroQL",
             "sale_link": "https://discord.com/channels/1014544662285013053/1357868795158335599",
             "level": 4,
             "zoom": 4,
@@ -1482,10 +1482,10 @@
             "image": ""
         },
         {
-            "name": "7 Trade Terrace_RedSnapperSale",
+            "name": "7 Trade Terrace",
             "x": -3366,
             "z": 8012,
-            "owner": "",
+            "owner": "_RedSnapper",
             "sale_link": "https://discord.com/channels/1014544662285013053/1430999787150377081",
             "level": 4,
             "zoom": 4,
@@ -1494,10 +1494,10 @@
             "image": ""
         },
         {
-            "name": "8 Trade TerraceJeyHeySale",
+            "name": "8 Trade Terrace",
             "x": -3363,
             "z": 7998,
-            "owner": "",
+            "owner": "JeyHey (Zeal)",
             "sale_link": "https://discord.com/channels/1014544662285013053/1357869491719241920",
             "level": 4,
             "zoom": 4,
@@ -1506,10 +1506,10 @@
             "image": ""
         },
         {
-            "name": "9 Trade TerracedemobottleSale",
+            "name": "9 Trade Terrace",
             "x": -3343,
             "z": 7989,
-            "owner": "",
+            "owner": "demobottle",
             "sale_link": "https://discord.com/channels/1014544662285013053/1432485037697274026",
             "level": 4,
             "zoom": 4,
@@ -1521,7 +1521,7 @@
             "name": "1 Glacial Walk",
             "x": -3336,
             "z": 8002,
-            "owner": "IAmDoktahSale",
+            "owner": "IAmDoktah",
             "sale_link": "https://discord.com/channels/1014544662285013053/1431001500854784010",
             "level": 4,
             "zoom": 4,
