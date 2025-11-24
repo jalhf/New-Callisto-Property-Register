@@ -2,7 +2,7 @@
     "name": "New Callisto Properties",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1763992411
+        "last_update": 1763993395
     },
     "features": [
         {
@@ -813,7 +813,7 @@
             "name": "2 Trade Terrace",
             "x": -3350,
             "z": 8125,
-            "owner": "",
+            "owner": "RealityTheory_",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
@@ -1441,7 +1441,7 @@
             "sale_link": "https://discord.com/channels/1014544662285013053/1357867951956561940/1398043896394678544",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3367.8037.4TradeTerraceHegghogamingSale",
+            "id": "com.github.jalhf.newcallisto.3367.8037.4TradeTerrace",
             "color": "#03f4fc",
             "image": ""
         },
@@ -1449,11 +1449,11 @@
             "name": "1 Trade Terrace",
             "x": -3344,
             "z": 8138,
-            "owner": "Soderrike",
+            "owner": "RealityTheory_",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3344.8138.1TradeTerraceSoderrike",
+            "id": "com.github.jalhf.newcallisto.3344.8138.1TradeTerrace",
             "color": "#03f4fc",
             "image": ""
         },
