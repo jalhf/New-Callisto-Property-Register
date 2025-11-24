@@ -150,14 +150,14 @@
             "image": ""
         },
         {
-            "name": "&nbsp;IF Citizen Factory Building",
+            "name": "IF Citizen Factory Bunker",
             "x": -3357,
             "z": 8066,
             "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3357.8066.&nbsp;IFCitizenFactoryBuilding",
+            "id": "com.github.jalhf.newcallisto.3357.8066.IFCitizenFactoryBunker",
             "color": "#03f4fc",
             "image": ""
         },
@@ -294,14 +294,14 @@
             "image": ""
         },
         {
-            "name": "6 Iron Circuit &lt;Unfinished&gt;",
+            "name": "6 Iron Circuit (Unfinished)",
             "x": -3322,
             "z": 8144,
             "owner": "VACANT",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit&lt;Unfinished&gt;",
+            "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit",
             "color": "#03f4fc",
             "image": ""
         },
