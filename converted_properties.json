@@ -1798,6 +1798,19 @@
             "color": "#03f4fc",
             "image": "",
             "type": "Residential"
+        },
+        {
+            "name": "",
+            "x": -3163,
+            "z": 8168,
+            "owner": "",
+            "sale_link": "",
+            "level": 4,
+            "zoom": 4,
+            "id": "com.github.jalhf.newcallisto.3185.8176.Ramp",
+            "color": "#03f4fc",
+            "image": "",
+            "type": "Residential"
         }
     ],
     "presentations": [
