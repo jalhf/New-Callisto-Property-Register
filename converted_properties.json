@@ -14,9 +14,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3144.8183.Park",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Residential"
+            "type": "Government"
         },
         {
             "name": "1 Aethia Crossing",
@@ -196,9 +196,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3357.8092.NewCallistoMaterialStorage",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Public"
+            "type": "Government"
         },
         {
             "name": "New Callisto Train Station",
@@ -209,9 +209,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3308.8031.NewCallistoTrainStation",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Public"
+            "type": "Government"
         },
         {
             "name": "1 Capital Square",
@@ -287,9 +287,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3281.8046.7CapitalSquare",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Residential"
+            "type": "Government"
         },
         {
             "name": "8 Capital Square",
@@ -430,9 +430,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3357.8066.IFCitizenFactoryBunker",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Public"
+            "type": "Government"
         },
         {
             "name": "1 Copper Circuit",
@@ -729,9 +729,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3378.8101.IFExpExchange",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Public"
+            "type": "Government"
         },
         {
             "name": "1 Feline Ave",
@@ -1405,9 +1405,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3397.8073.IFOreExchange",
-            "color": "#03f4fc",
+            "color": "#9e42f5",
             "image": "",
-            "type": "Public"
+            "type": "Government"
         },
         {
             "name": "1 Regens Rd",
