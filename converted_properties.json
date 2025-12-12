@@ -2,7 +2,7 @@
     "name": "New Callisto Properties",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1765501356
+        "last_update": 1765503266
     },
     "features": [
         {
@@ -20,7 +20,7 @@
             "address": "Park"
         },
         {
-            "name": "1 Aethia Crossing",
+            "name": "Private",
             "x": -3208,
             "z": 8048,
             "owner": "randomguys0101",
@@ -34,7 +34,7 @@
             "address": "1 Aethia Crossing"
         },
         {
-            "name": "2 Aethia Crossing",
+            "name": "Private",
             "x": -3198,
             "z": 8048,
             "owner": "randomguys0101",
@@ -62,7 +62,7 @@
             "address": "3 Aethia Crossing"
         },
         {
-            "name": "4 Aethia Crossing",
+            "name": "Private",
             "x": -3186,
             "z": 8046,
             "owner": "Heim Industries Cargo/Postal Service",
@@ -90,7 +90,7 @@
             "address": "5 Aethia Crossing"
         },
         {
-            "name": "6 Aethia Crossing",
+            "name": "Private",
             "x": -3160,
             "z": 8044,
             "owner": "realmichael",
@@ -118,7 +118,7 @@
             "address": "1 Alley Ln"
         },
         {
-            "name": "2 Alley Ln",
+            "name": "Private",
             "x": -3299,
             "z": 8145,
             "owner": "gabrielmaenl5",
@@ -160,7 +160,7 @@
             "address": "4 Alley Ln"
         },
         {
-            "name": "5 Alley Ln",
+            "name": "Private",
             "x": -3270,
             "z": 8140,
             "owner": "MarkerCereal",
@@ -496,7 +496,7 @@
             "address": "10 Copper Circuit"
         },
         {
-            "name": "11 Copper Circuit",
+            "name": "Private",
             "x": -3197,
             "z": 8105,
             "owner": "Shadno",
@@ -510,7 +510,7 @@
             "address": "11 Copper Circuit"
         },
         {
-            "name": "12 Copper Circuit",
+            "name": "Private",
             "x": -3193,
             "z": 8089,
             "owner": "Jude",
@@ -538,7 +538,7 @@
             "address": "2 Copper Circuit"
         },
         {
-            "name": "3 Copper Circuit",
+            "name": "Private",
             "x": -3244,
             "z": 8066,
             "owner": "CapianColton",
@@ -552,7 +552,7 @@
             "address": "3 Copper Circuit"
         },
         {
-            "name": "4 Copper Circuit",
+            "name": "Private",
             "x": -3244,
             "z": 8050,
             "owner": "ZeroQL",
@@ -566,7 +566,7 @@
             "address": "4 Copper Circuit"
         },
         {
-            "name": "5 Copper Circuit",
+            "name": "Private",
             "x": -3234,
             "z": 8066,
             "owner": "Heim Industries",
@@ -580,7 +580,7 @@
             "address": "5 Copper Circuit"
         },
         {
-            "name": "6 Copper Circuit",
+            "name": "Private",
             "x": -3230,
             "z": 8048,
             "owner": "crizzrock, Zombie_Striker, thePinballwitch, Tr1ckyD1ckNixon ?",
@@ -594,7 +594,7 @@
             "address": "6 Copper Circuit"
         },
         {
-            "name": "7 Copper Circuit",
+            "name": "Private",
             "x": -3223,
             "z": 8066,
             "owner": "JPM_Stalin",
@@ -608,7 +608,7 @@
             "address": "7 Copper Circuit"
         },
         {
-            "name": "8 Copper Circuit",
+            "name": "Private",
             "x": -3202,
             "z": 8066,
             "owner": "ZeroQL?",
@@ -622,7 +622,7 @@
             "address": "8 Copper Circuit"
         },
         {
-            "name": "9 Copper Circuit",
+            "name": "Private",
             "x": -3200,
             "z": 8081,
             "owner": "Jude",
@@ -790,7 +790,7 @@
             "address": "IF Exp Exchange"
         },
         {
-            "name": "1 Feline Ave",
+            "name": "Private",
             "x": -3173,
             "z": 8026,
             "owner": "Intelligences",
@@ -930,7 +930,7 @@
             "address": "228 Hoth Cct"
         },
         {
-            "name": "229 Hoth Cct",
+            "name": "Private",
             "x": -3245,
             "z": 8166,
             "owner": "Urzork",
@@ -958,7 +958,7 @@
             "address": "230 Hoth Cct"
         },
         {
-            "name": "231 Hoth Cct",
+            "name": "Private",
             "x": -3257,
             "z": 8162,
             "owner": "s0uthw3st",
@@ -986,7 +986,7 @@
             "address": "232 Hoth Cct"
         },
         {
-            "name": "233 Hoth Cct",
+            "name": "Private",
             "x": -3270,
             "z": 8162,
             "owner": "banana_blu_",
@@ -1014,7 +1014,7 @@
             "address": "234 Hoth Cct"
         },
         {
-            "name": "235 Hoth Cct",
+            "name": "Private",
             "x": -3285,
             "z": 8163,
             "owner": "gabrielmaennl5",
@@ -1028,7 +1028,7 @@
             "address": "235 Hoth Cct"
         },
         {
-            "name": "237 Hoth Cct",
+            "name": "Private",
             "x": -3299,
             "z": 8167,
             "owner": "Potato_Duke",
@@ -1042,7 +1042,7 @@
             "address": "237 Hoth Cct"
         },
         {
-            "name": "239 Hoth Cct",
+            "name": "Private",
             "x": -3310,
             "z": 8171,
             "owner": "Judethedude",
@@ -1126,7 +1126,7 @@
             "address": "248 Hoth Cct"
         },
         {
-            "name": "1 Iron Circuit",
+            "name": "Private",
             "x": -3258,
             "z": 8129,
             "owner": "ComradeSankara",
@@ -1168,7 +1168,7 @@
             "address": "101 Iron Cct"
         },
         {
-            "name": "102 Iron Cct",
+            "name": "Private",
             "x": -3363,
             "z": 8187,
             "owner": "VEC corporation",
@@ -1196,7 +1196,7 @@
             "address": "104 Iron Cct - not built"
         },
         {
-            "name": "11 Iron Circuit",
+            "name": "Private",
             "x": -3240,
             "z": 8116,
             "owner": "BicepKing5000",
@@ -1518,7 +1518,7 @@
             "address": "IF Ore Exchange"
         },
         {
-            "name": "1 Regens Rd",
+            "name": "Private",
             "x": -3234,
             "z": 8096,
             "owner": "TomatoeChips",
@@ -1532,7 +1532,7 @@
             "address": "1 Regens Rd"
         },
         {
-            "name": "2 Regens Rd",
+            "name": "Private",
             "x": -3230,
             "z": 8114,
             "owner": "PumpkinPie134",
@@ -1546,7 +1546,7 @@
             "address": "2 Regens Rd"
         },
         {
-            "name": "3 Regens Rd",
+            "name": "Private",
             "x": -3223,
             "z": 8089,
             "owner": "Cyanforest813",
@@ -1560,7 +1560,7 @@
             "address": "3 Regens Rd"
         },
         {
-            "name": "4 Regens Rd",
+            "name": "Private",
             "x": -3223,
             "z": 8106,
             "owner": "PureMaster11",
@@ -1574,7 +1574,7 @@
             "address": "4 Regens Rd"
         },
         {
-            "name": "1 Riverfront Rd",
+            "name": "Private",
             "x": -3160,
             "z": 8063,
             "owner": "BananaBlu_",
@@ -1588,7 +1588,7 @@
             "address": "1 Riverfront Rd"
         },
         {
-            "name": "11 Riverfront Rd",
+            "name": "Private",
             "x": -3186,
             "z": 8108,
             "owner": "marino94",
@@ -1602,7 +1602,7 @@
             "address": "11 Riverfront Rd"
         },
         {
-            "name": "12 Riverfront Rd",
+            "name": "Private",
             "x": -3184,
             "z": 8118,
             "owner": "marino94",
@@ -1616,7 +1616,7 @@
             "address": "12 Riverfront Rd"
         },
         {
-            "name": "13 Riverfront Rd",
+            "name": "Private",
             "x": -3182,
             "z": 8132,
             "owner": "marino94",
@@ -1630,7 +1630,7 @@
             "address": "13 Riverfront Rd"
         },
         {
-            "name": "2 Riverfront Rd",
+            "name": "Private",
             "x": -3162,
             "z": 8081,
             "owner": "ZeroQL",
@@ -1644,7 +1644,7 @@
             "address": "2 Riverfront Rd"
         },
         {
-            "name": "3 Riverfront Rd",
+            "name": "Private",
             "x": -3166,
             "z": 8101,
             "owner": "CyanForest813",
@@ -1658,7 +1658,7 @@
             "address": "3 Riverfront Rd"
         },
         {
-            "name": "4 Riverfront Rd",
+            "name": "Private",
             "x": -3163,
             "z": 8112,
             "owner": "Jude",
@@ -1672,7 +1672,7 @@
             "address": "4 Riverfront Rd"
         },
         {
-            "name": "5 Riverfront Rd",
+            "name": "Private",
             "x": -3163,
             "z": 8124,
             "owner": "HolisticJalapeno",
@@ -1686,7 +1686,7 @@
             "address": "5 Riverfront Rd"
         },
         {
-            "name": "6 Riverfront Rd",
+            "name": "Private",
             "x": -3163,
             "z": 8135,
             "owner": "Unknown",
@@ -1700,7 +1700,7 @@
             "address": "6 Riverfront Rd"
         },
         {
-            "name": "7 Riverfront Rd",
+            "name": "Private",
             "x": -3179,
             "z": 8066,
             "owner": "Urzork",
@@ -1714,7 +1714,7 @@
             "address": "7 Riverfront Rd"
         },
         {
-            "name": "8 Riverfront Rd",
+            "name": "Private",
             "x": -3182,
             "z": 8078,
             "owner": "Tatsu",
@@ -1728,7 +1728,7 @@
             "address": "8 Riverfront Rd"
         },
         {
-            "name": "9 Riverfront Rd",
+            "name": "Private",
             "x": -3182,
             "z": 8088,
             "owner": "Dr Bacon Hair",
