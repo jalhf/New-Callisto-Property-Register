@@ -2,7 +2,7 @@
     "name": "New Callisto Properties",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1764019380
+        "last_update": 1765501356
     },
     "features": [
         {
@@ -16,7 +16,8 @@
             "id": "com.github.jalhf.newcallisto.3144.8183.Park",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "Park"
         },
         {
             "name": "1 Aethia Crossing",
@@ -29,7 +30,8 @@
             "id": "com.github.jalhf.newcallisto.3208.8048.1AethiaCrossing",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "1 Aethia Crossing"
         },
         {
             "name": "2 Aethia Crossing",
@@ -42,7 +44,8 @@
             "id": "com.github.jalhf.newcallisto.3198.8048.2AethiaCrossing",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "2 Aethia Crossing"
         },
         {
             "name": "3 Aethia Crossing",
@@ -55,7 +58,8 @@
             "id": "com.github.jalhf.newcallisto.3190.8063.3AethiaCrossing",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "3 Aethia Crossing"
         },
         {
             "name": "4 Aethia Crossing",
@@ -68,7 +72,8 @@
             "id": "com.github.jalhf.newcallisto.3186.8046.4AethiaCrossing",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "4 Aethia Crossing"
         },
         {
             "name": "5 Aethia Crossing",
@@ -81,7 +86,8 @@
             "id": "com.github.jalhf.newcallisto.3177.8044.5AethiaCrossing",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "5 Aethia Crossing"
         },
         {
             "name": "6 Aethia Crossing",
@@ -94,7 +100,8 @@
             "id": "com.github.jalhf.newcallisto.3160.8044.6AethiaCrossing",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "6 Aethia Crossing"
         },
         {
             "name": "1 Alley Ln",
@@ -107,7 +114,8 @@
             "id": "com.github.jalhf.newcallisto.3310.8147.1AlleyLn",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "1 Alley Ln"
         },
         {
             "name": "2 Alley Ln",
@@ -120,7 +128,8 @@
             "id": "com.github.jalhf.newcallisto.3299.8145.2AlleyLn",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "2 Alley Ln"
         },
         {
             "name": "3 Alley Ln",
@@ -133,7 +142,8 @@
             "id": "com.github.jalhf.newcallisto.3290.8143.3AlleyLn",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "3 Alley Ln"
         },
         {
             "name": "4 Alley Ln",
@@ -146,7 +156,8 @@
             "id": "com.github.jalhf.newcallisto.3280.8141.4AlleyLn",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "4 Alley Ln"
         },
         {
             "name": "5 Alley Ln",
@@ -159,7 +170,8 @@
             "id": "com.github.jalhf.newcallisto.3270.8140.5AlleyLn",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "5 Alley Ln"
         },
         {
             "name": "6 Alley Ln",
@@ -172,7 +184,8 @@
             "id": "com.github.jalhf.newcallisto.3259.8141.6AlleyLn",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "6 Alley Ln"
         },
         {
             "name": "7 Alley Ln",
@@ -185,7 +198,8 @@
             "id": "com.github.jalhf.newcallisto.3251.8143.7AlleyLn",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "7 Alley Ln"
         },
         {
             "name": "New Callisto Material Storage",
@@ -198,7 +212,8 @@
             "id": "com.github.jalhf.newcallisto.3357.8092.NewCallistoMaterialStorage",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "New Callisto Material Storage"
         },
         {
             "name": "New Callisto Train Station",
@@ -211,7 +226,8 @@
             "id": "com.github.jalhf.newcallisto.3308.8031.NewCallistoTrainStation",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "New Callisto Train Station"
         },
         {
             "name": "1 Capital Square",
@@ -224,7 +240,8 @@
             "id": "com.github.jalhf.newcallisto.3329.8105.1CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "1 Capital Square"
         },
         {
             "name": "2 Capital Square",
@@ -237,7 +254,8 @@
             "id": "com.github.jalhf.newcallisto.3320.8108.2CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Capital Square"
         },
         {
             "name": "3 Capital Square",
@@ -250,7 +268,8 @@
             "id": "com.github.jalhf.newcallisto.3309.8112.3CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "3 Capital Square"
         },
         {
             "name": "4 Capital Square",
@@ -263,7 +282,8 @@
             "id": "com.github.jalhf.newcallisto.3294.8103.4CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "4 Capital Square"
         },
         {
             "name": "6 Capital Square",
@@ -276,7 +296,8 @@
             "id": "com.github.jalhf.newcallisto.3287.8078.6CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "6 Capital Square"
         },
         {
             "name": "7 Capital Square",
@@ -289,7 +310,8 @@
             "id": "com.github.jalhf.newcallisto.3281.8046.7CapitalSquare",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "7 Capital Square"
         },
         {
             "name": "8 Capital Square",
@@ -302,7 +324,8 @@
             "id": "com.github.jalhf.newcallisto.3287.8029.8CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "8 Capital Square"
         },
         {
             "name": "9 Capital Square",
@@ -315,7 +338,8 @@
             "id": "com.github.jalhf.newcallisto.3330.8025.9CapitalSquare",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "9 Capital Square"
         },
         {
             "name": "Iron Cct",
@@ -328,7 +352,8 @@
             "id": "com.github.jalhf.newcallisto.3235.8140.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -341,7 +366,8 @@
             "id": "com.github.jalhf.newcallisto.3230.8143.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -354,7 +380,8 @@
             "id": "com.github.jalhf.newcallisto.3223.8145.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -367,7 +394,8 @@
             "id": "com.github.jalhf.newcallisto.3215.8150.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -380,7 +408,8 @@
             "id": "com.github.jalhf.newcallisto.3205.8157.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -393,7 +422,8 @@
             "id": "com.github.jalhf.newcallisto.3198.8161.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -406,7 +436,8 @@
             "id": "com.github.jalhf.newcallisto.3180.8175.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "Iron Cct",
@@ -419,7 +450,8 @@
             "id": "com.github.jalhf.newcallisto.3180.8183.IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Iron Cct"
         },
         {
             "name": "IF Citizen Factory Bunker",
@@ -432,7 +464,8 @@
             "id": "com.github.jalhf.newcallisto.3357.8066.IFCitizenFactoryBunker",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "IF Citizen Factory Bunker"
         },
         {
             "name": "1 Copper Circuit",
@@ -445,7 +478,8 @@
             "id": "com.github.jalhf.newcallisto.3254.8070.1CopperCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "1 Copper Circuit"
         },
         {
             "name": "10 Copper Circuit",
@@ -458,7 +492,8 @@
             "id": "com.github.jalhf.newcallisto.3208.8103.10CopperCircuit",
             "color": "#18cade",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "10 Copper Circuit"
         },
         {
             "name": "11 Copper Circuit",
@@ -471,7 +506,8 @@
             "id": "com.github.jalhf.newcallisto.3197.8105.11CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "11 Copper Circuit"
         },
         {
             "name": "12 Copper Circuit",
@@ -484,7 +520,8 @@
             "id": "com.github.jalhf.newcallisto.3193.8089.12CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "12 Copper Circuit"
         },
         {
             "name": "2 Copper Circuit",
@@ -497,7 +534,8 @@
             "id": "com.github.jalhf.newcallisto.3254.8053.2CopperCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Copper Circuit"
         },
         {
             "name": "3 Copper Circuit",
@@ -510,7 +548,8 @@
             "id": "com.github.jalhf.newcallisto.3244.8066.3CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "3 Copper Circuit"
         },
         {
             "name": "4 Copper Circuit",
@@ -523,7 +562,8 @@
             "id": "com.github.jalhf.newcallisto.3244.8050.4CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "4 Copper Circuit"
         },
         {
             "name": "5 Copper Circuit",
@@ -536,7 +576,8 @@
             "id": "com.github.jalhf.newcallisto.3234.8066.5CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "5 Copper Circuit"
         },
         {
             "name": "6 Copper Circuit",
@@ -549,7 +590,8 @@
             "id": "com.github.jalhf.newcallisto.3230.8048.6CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "6 Copper Circuit"
         },
         {
             "name": "7 Copper Circuit",
@@ -562,7 +604,8 @@
             "id": "com.github.jalhf.newcallisto.3223.8066.7CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "7 Copper Circuit"
         },
         {
             "name": "8 Copper Circuit",
@@ -575,7 +618,8 @@
             "id": "com.github.jalhf.newcallisto.3202.8066.8CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "8 Copper Circuit"
         },
         {
             "name": "9 Copper Circuit",
@@ -588,7 +632,8 @@
             "id": "com.github.jalhf.newcallisto.3200.8081.9CopperCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "9 Copper Circuit"
         },
         {
             "name": "Industry District",
@@ -601,7 +646,8 @@
             "id": "com.github.jalhf.newcallisto.3403.8130.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -614,7 +660,8 @@
             "id": "com.github.jalhf.newcallisto.3389.8139.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -627,7 +674,8 @@
             "id": "com.github.jalhf.newcallisto.3371.8138.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -640,7 +688,8 @@
             "id": "com.github.jalhf.newcallisto.3367.8123.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -653,7 +702,8 @@
             "id": "com.github.jalhf.newcallisto.3381.8122.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -666,7 +716,8 @@
             "id": "com.github.jalhf.newcallisto.3394.8121.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -679,7 +730,8 @@
             "id": "com.github.jalhf.newcallisto.3399.8149.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -692,7 +744,8 @@
             "id": "com.github.jalhf.newcallisto.3390.8157.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -705,7 +758,8 @@
             "id": "com.github.jalhf.newcallisto.3364.8154.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "Industry District",
@@ -718,7 +772,8 @@
             "id": "com.github.jalhf.newcallisto.3361.8147.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "Industry District"
         },
         {
             "name": "IF Exp Exchange",
@@ -731,7 +786,8 @@
             "id": "com.github.jalhf.newcallisto.3378.8101.IFExpExchange",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "IF Exp Exchange"
         },
         {
             "name": "1 Feline Ave",
@@ -744,7 +800,8 @@
             "id": "com.github.jalhf.newcallisto.3173.8026.1FelineAve",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "1 Feline Ave"
         },
         {
             "name": "2 Feline Ave",
@@ -757,7 +814,8 @@
             "id": "com.github.jalhf.newcallisto.3267.8022.2FelineAveDr.UrzorkWellnessCenterSale",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Feline Ave"
         },
         {
             "name": "3 Feline Ave",
@@ -770,7 +828,8 @@
             "id": "com.github.jalhf.newcallisto.3274.8008.3FelineAveDr.UrzorkWellnessCenter",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "3 Feline Ave"
         },
         {
             "name": "4 Feline Ave",
@@ -783,7 +842,8 @@
             "id": "com.github.jalhf.newcallisto.3274.7993.4FelineAveDr.UrzorkWellnessCenter",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "4 Feline Ave"
         },
         {
             "name": "1 Glacial Walk",
@@ -796,7 +856,8 @@
             "id": "com.github.jalhf.newcallisto.3336.8002.1GlacialWalk",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "1 Glacial Walk"
         },
         {
             "name": "2 Glacial Walk",
@@ -809,7 +870,8 @@
             "id": "com.github.jalhf.newcallisto.3324.8004.2GlacialWalk",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Glacial Walk"
         },
         {
             "name": "3 Glacial Walk",
@@ -822,7 +884,8 @@
             "id": "com.github.jalhf.newcallisto.3304.7985.3GlacialWalk",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "3 Glacial Walk"
         },
         {
             "name": "226 Hoth Cct",
@@ -835,7 +898,8 @@
             "id": "com.github.jalhf.newcallisto.3206.8164.226HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "226 Hoth Cct"
         },
         {
             "name": "227 Hoth Cct",
@@ -848,7 +912,8 @@
             "id": "com.github.jalhf.newcallisto.3230.8171.227HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "227 Hoth Cct"
         },
         {
             "name": "228 Hoth Cct",
@@ -861,7 +926,8 @@
             "id": "com.github.jalhf.newcallisto.3212.8164.228HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "228 Hoth Cct"
         },
         {
             "name": "229 Hoth Cct",
@@ -874,7 +940,8 @@
             "id": "com.github.jalhf.newcallisto.3245.8166.229HothCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "229 Hoth Cct"
         },
         {
             "name": "230 Hoth Cct",
@@ -887,7 +954,8 @@
             "id": "com.github.jalhf.newcallisto.3220.8156.230HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "230 Hoth Cct"
         },
         {
             "name": "231 Hoth Cct",
@@ -900,7 +968,8 @@
             "id": "com.github.jalhf.newcallisto.3257.8162.231HothCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "231 Hoth Cct"
         },
         {
             "name": "232 Hoth Cct",
@@ -913,7 +982,8 @@
             "id": "com.github.jalhf.newcallisto.3227.8151.232HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "232 Hoth Cct"
         },
         {
             "name": "233 Hoth Cct",
@@ -926,7 +996,8 @@
             "id": "com.github.jalhf.newcallisto.3270.8162.233HothCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "233 Hoth Cct"
         },
         {
             "name": "234 Hoth Cct",
@@ -939,7 +1010,8 @@
             "id": "com.github.jalhf.newcallisto.3237.8148.234HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "234 Hoth Cct"
         },
         {
             "name": "235 Hoth Cct",
@@ -952,7 +1024,8 @@
             "id": "com.github.jalhf.newcallisto.3285.8163.235HothCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "235 Hoth Cct"
         },
         {
             "name": "237 Hoth Cct",
@@ -965,7 +1038,8 @@
             "id": "com.github.jalhf.newcallisto.3299.8167.237HothCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "237 Hoth Cct"
         },
         {
             "name": "239 Hoth Cct",
@@ -978,7 +1052,8 @@
             "id": "com.github.jalhf.newcallisto.3310.8171.239HothCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "239 Hoth Cct"
         },
         {
             "name": "240 Hoth Cct",
@@ -991,7 +1066,8 @@
             "id": "com.github.jalhf.newcallisto.3326.8162.240HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "240 Hoth Cct"
         },
         {
             "name": "242 Hoth Cct",
@@ -1004,7 +1080,8 @@
             "id": "com.github.jalhf.newcallisto.3332.8169.242HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "242 Hoth Cct"
         },
         {
             "name": "244 Hoth Cct",
@@ -1017,7 +1094,8 @@
             "id": "com.github.jalhf.newcallisto.3341.8175.244HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "244 Hoth Cct"
         },
         {
             "name": "246 Hoth Cct",
@@ -1030,7 +1108,8 @@
             "id": "com.github.jalhf.newcallisto.3347.8186.246HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "246 Hoth Cct"
         },
         {
             "name": "248 Hoth Cct",
@@ -1043,7 +1122,8 @@
             "id": "com.github.jalhf.newcallisto.3350.8194.248HothCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "248 Hoth Cct"
         },
         {
             "name": "1 Iron Circuit",
@@ -1056,7 +1136,8 @@
             "id": "com.github.jalhf.newcallisto.3258.8129.1IronCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "1 Iron Circuit"
         },
         {
             "name": "10 Iron Circuit",
@@ -1069,7 +1150,8 @@
             "id": "com.github.jalhf.newcallisto.3277.8112.10IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "10 Iron Circuit"
         },
         {
             "name": "101 Iron Cct",
@@ -1082,7 +1164,8 @@
             "id": "com.github.jalhf.newcallisto.3392.8180.101IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "101 Iron Cct"
         },
         {
             "name": "102 Iron Cct",
@@ -1095,7 +1178,8 @@
             "id": "com.github.jalhf.newcallisto.3363.8187.102IronCct",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "102 Iron Cct"
         },
         {
             "name": "104 Iron Cct - not built",
@@ -1108,7 +1192,8 @@
             "id": "com.github.jalhf.newcallisto.3365.8205.104IronCct-notbuilt",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "104 Iron Cct - not built"
         },
         {
             "name": "11 Iron Circuit",
@@ -1121,7 +1206,8 @@
             "id": "com.github.jalhf.newcallisto.3240.8116.11IronCircuit",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "11 Iron Circuit"
         },
         {
             "name": "12 Iron Circuit",
@@ -1134,7 +1220,8 @@
             "id": "com.github.jalhf.newcallisto.3219.8128.12IronCircuit",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "12 Iron Circuit"
         },
         {
             "name": "13 Iron Circuit",
@@ -1147,7 +1234,8 @@
             "id": "com.github.jalhf.newcallisto.3209.8133.13IronCircuit",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "13 Iron Circuit"
         },
         {
             "name": "14 Iron Circuit",
@@ -1160,7 +1248,8 @@
             "id": "com.github.jalhf.newcallisto.3198.8139.14IronCircuit",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "14 Iron Circuit"
         },
         {
             "name": "15 Iron Circuit",
@@ -1173,7 +1262,8 @@
             "id": "com.github.jalhf.newcallisto.3191.8144.15IronCircuit",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "15 Iron Circuit"
         },
         {
             "name": "2 Iron Circuit",
@@ -1186,7 +1276,8 @@
             "id": "com.github.jalhf.newcallisto.3270.8132.2IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Iron Circuit"
         },
         {
             "name": "21 Iron Cct",
@@ -1199,7 +1290,8 @@
             "id": "com.github.jalhf.newcallisto.3341.8156.21IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "21 Iron Cct"
         },
         {
             "name": "22 Iron Cct",
@@ -1212,7 +1304,8 @@
             "id": "com.github.jalhf.newcallisto.3350.8165.22IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "22 Iron Cct"
         },
         {
             "name": "23 Iron Cct",
@@ -1225,7 +1318,8 @@
             "id": "com.github.jalhf.newcallisto.3360.8173.23IronCct",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "23 Iron Cct"
         },
         {
             "name": "3 Iron Circuit",
@@ -1238,7 +1332,8 @@
             "id": "com.github.jalhf.newcallisto.3277.8133.3IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "3 Iron Circuit"
         },
         {
             "name": "4 Iron Circuit",
@@ -1251,7 +1346,8 @@
             "id": "com.github.jalhf.newcallisto.3290.8133.4IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "4 Iron Circuit"
         },
         {
             "name": "5 Iron Circuit",
@@ -1264,7 +1360,8 @@
             "id": "com.github.jalhf.newcallisto.3301.8136.5IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "5 Iron Circuit"
         },
         {
             "name": "6 Iron Circuit",
@@ -1277,7 +1374,8 @@
             "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit",
             "color": "#eff542",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "6 Iron Circuit"
         },
         {
             "name": "7 Iron Circuit",
@@ -1290,7 +1388,8 @@
             "id": "com.github.jalhf.newcallisto.3333.8122.7IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "7 Iron Circuit"
         },
         {
             "name": "8 Iron Circuit",
@@ -1303,7 +1402,8 @@
             "id": "com.github.jalhf.newcallisto.3312.8122.8IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "8 Iron Circuit"
         },
         {
             "name": "9 Iron Circuit",
@@ -1316,7 +1416,8 @@
             "id": "com.github.jalhf.newcallisto.3294.8114.9IronCircuit",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "9 Iron Circuit"
         },
         {
             "name": "1 Jalhf St",
@@ -1329,7 +1430,8 @@
             "id": "com.github.jalhf.newcallisto.3275.8104.1JalhfSt",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "1 Jalhf St"
         },
         {
             "name": "2 Jalhf St",
@@ -1342,7 +1444,8 @@
             "id": "com.github.jalhf.newcallisto.3254.8105.2JalhfSt",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Jalhf St"
         },
         {
             "name": "3 Jalhf St",
@@ -1355,7 +1458,8 @@
             "id": "com.github.jalhf.newcallisto.3276.8090.3JalhfSt",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "3 Jalhf St"
         },
         {
             "name": "4 Jalhf St",
@@ -1368,7 +1472,8 @@
             "id": "com.github.jalhf.newcallisto.3254.8095.4JalhfSt",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "4 Jalhf St"
         },
         {
             "name": "5 Jalhf St",
@@ -1381,7 +1486,8 @@
             "id": "com.github.jalhf.newcallisto.3254.8082.5JalhfSt",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "5 Jalhf St"
         },
         {
             "name": "6 Jalhf St",
@@ -1394,7 +1500,8 @@
             "id": "com.github.jalhf.newcallisto.3262.8041.6JalhfSt",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "6 Jalhf St"
         },
         {
             "name": "IF Ore Exchange",
@@ -1407,7 +1514,8 @@
             "id": "com.github.jalhf.newcallisto.3397.8073.IFOreExchange",
             "color": "#9e42f5",
             "image": "",
-            "type": "Government"
+            "type": "Government",
+            "address": "IF Ore Exchange"
         },
         {
             "name": "1 Regens Rd",
@@ -1420,7 +1528,8 @@
             "id": "com.github.jalhf.newcallisto.3234.8096.1RegensRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "1 Regens Rd"
         },
         {
             "name": "2 Regens Rd",
@@ -1433,7 +1542,8 @@
             "id": "com.github.jalhf.newcallisto.3230.8114.2RegensRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "2 Regens Rd"
         },
         {
             "name": "3 Regens Rd",
@@ -1446,7 +1556,8 @@
             "id": "com.github.jalhf.newcallisto.3223.8089.3RegensRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "3 Regens Rd"
         },
         {
             "name": "4 Regens Rd",
@@ -1459,7 +1570,8 @@
             "id": "com.github.jalhf.newcallisto.3223.8106.4RegensRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "4 Regens Rd"
         },
         {
             "name": "1 Riverfront Rd",
@@ -1472,7 +1584,8 @@
             "id": "com.github.jalhf.newcallisto.3160.8063.1RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "1 Riverfront Rd"
         },
         {
             "name": "11 Riverfront Rd",
@@ -1485,7 +1598,8 @@
             "id": "com.github.jalhf.newcallisto.3186.8108.11RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "11 Riverfront Rd"
         },
         {
             "name": "12 Riverfront Rd",
@@ -1498,7 +1612,8 @@
             "id": "com.github.jalhf.newcallisto.3184.8118.12RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "12 Riverfront Rd"
         },
         {
             "name": "13 Riverfront Rd",
@@ -1511,7 +1626,8 @@
             "id": "com.github.jalhf.newcallisto.3182.8132.13RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "13 Riverfront Rd"
         },
         {
             "name": "2 Riverfront Rd",
@@ -1524,7 +1640,8 @@
             "id": "com.github.jalhf.newcallisto.3162.8081.2RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "2 Riverfront Rd"
         },
         {
             "name": "3 Riverfront Rd",
@@ -1537,7 +1654,8 @@
             "id": "com.github.jalhf.newcallisto.3166.8101.3RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "3 Riverfront Rd"
         },
         {
             "name": "4 Riverfront Rd",
@@ -1550,7 +1668,8 @@
             "id": "com.github.jalhf.newcallisto.3163.8112.4RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "4 Riverfront Rd"
         },
         {
             "name": "5 Riverfront Rd",
@@ -1563,7 +1682,8 @@
             "id": "com.github.jalhf.newcallisto.3163.8124.5RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "5 Riverfront Rd"
         },
         {
             "name": "6 Riverfront Rd",
@@ -1576,7 +1696,8 @@
             "id": "com.github.jalhf.newcallisto.3163.8135.6RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "6 Riverfront Rd"
         },
         {
             "name": "7 Riverfront Rd",
@@ -1589,7 +1710,8 @@
             "id": "com.github.jalhf.newcallisto.3179.8066.7RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "7 Riverfront Rd"
         },
         {
             "name": "8 Riverfront Rd",
@@ -1602,7 +1724,8 @@
             "id": "com.github.jalhf.newcallisto.3182.8078.8RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "8 Riverfront Rd"
         },
         {
             "name": "9 Riverfront Rd",
@@ -1615,7 +1738,8 @@
             "id": "com.github.jalhf.newcallisto.3182.8088.9RiverfrontRd",
             "color": "#183dde",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "9 Riverfront Rd"
         },
         {
             "name": "Market Stall",
@@ -1628,7 +1752,8 @@
             "id": "com.github.jalhf.newcallisto.3303.8082.MarketStall",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "Market Stall"
         },
         {
             "name": "Market Stall",
@@ -1641,7 +1766,8 @@
             "id": "com.github.jalhf.newcallisto.3310.8092.MarketStall",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "Market Stall"
         },
         {
             "name": "Market Stall",
@@ -1654,7 +1780,8 @@
             "id": "com.github.jalhf.newcallisto.3320.8092.MarketStall",
             "color": "#eff542",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "Market Stall"
         },
         {
             "name": "Market Stall",
@@ -1667,7 +1794,8 @@
             "id": "com.github.jalhf.newcallisto.3326.8082.MarketStall",
             "color": "#eff542",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "Market Stall"
         },
         {
             "name": "1 Trade Terrace",
@@ -1680,7 +1808,8 @@
             "id": "com.github.jalhf.newcallisto.3344.8138.1TradeTerrace",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "1 Trade Terrace"
         },
         {
             "name": "2 Trade Terrace",
@@ -1693,7 +1822,8 @@
             "id": "com.github.jalhf.newcallisto.3350.8125.2TradeTerrace",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "2 Trade Terrace"
         },
         {
             "name": "3 Trade Terrace",
@@ -1706,7 +1836,8 @@
             "id": "com.github.jalhf.newcallisto.3353.8108.3TradeTerrace",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "3 Trade Terrace"
         },
         {
             "name": "4 Trade Terrace",
@@ -1719,7 +1850,8 @@
             "id": "com.github.jalhf.newcallisto.3367.8037.4TradeTerrace",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "4 Trade Terrace"
         },
         {
             "name": "5 Trade Terrace",
@@ -1732,7 +1864,8 @@
             "id": "com.github.jalhf.newcallisto.3367.8027.5TradeTerraceRikardasasSale",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "5 Trade Terrace"
         },
         {
             "name": "6 Trade Terrace",
@@ -1745,7 +1878,8 @@
             "id": "com.github.jalhf.newcallisto.3366.8019.6TradeTerraceZeroQLSale",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "6 Trade Terrace"
         },
         {
             "name": "7 Trade Terrace",
@@ -1758,7 +1892,8 @@
             "id": "com.github.jalhf.newcallisto.3366.8012.7TradeTerrace_RedSnapperSale",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "7 Trade Terrace"
         },
         {
             "name": "8 Trade Terrace",
@@ -1771,7 +1906,8 @@
             "id": "com.github.jalhf.newcallisto.3363.7998.8TradeTerraceJeyHeySale",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "8 Trade Terrace"
         },
         {
             "name": "9 Trade Terrace",
@@ -1784,7 +1920,8 @@
             "id": "com.github.jalhf.newcallisto.3343.7989.9TradeTerracedemobottleSale",
             "color": "#2c7d27",
             "image": "",
-            "type": "Commercial"
+            "type": "Commercial",
+            "address": "9 Trade Terrace"
         },
         {
             "name": "No Address",
@@ -1797,7 +1934,8 @@
             "id": "com.github.jalhf.newcallisto.3163.8168.Needstobegivenaddressesandfinished",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": "No Address"
         },
         {
             "name": "",
@@ -1810,7 +1948,8 @@
             "id": "com.github.jalhf.newcallisto.3185.8176.Ramp",
             "color": "#03f4fc",
             "image": "",
-            "type": "Residential"
+            "type": "Residential",
+            "address": ""
         }
     ],
     "presentations": [
