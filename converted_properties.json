@@ -1184,9 +1184,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3270.8132.2IronCircuit",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "21 Iron Cct",
@@ -1236,9 +1236,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3277.8133.3IronCircuit",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "4 Iron Circuit",
@@ -1249,9 +1249,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3290.8133.4IronCircuit",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "5 Iron Circuit",
@@ -1262,9 +1262,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3301.8136.5IronCircuit",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "6 Iron Circuit",
@@ -1275,9 +1275,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit",
-            "color": "#03f4fc",
+            "color": "#eff542",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "7 Iron Circuit",
@@ -1340,9 +1340,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8105.2JalhfSt",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "3 Jalhf St",
@@ -1366,9 +1366,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8095.4JalhfSt",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "5 Jalhf St",
@@ -1379,9 +1379,9 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8082.5JalhfSt",
-            "color": "#183dde",
+            "color": "#2c7d27",
             "image": "",
-            "type": "Residential"
+            "type": "Commercial"
         },
         {
             "name": "6 Jalhf St",
