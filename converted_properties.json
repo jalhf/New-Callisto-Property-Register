@@ -300,10 +300,10 @@
             "address": "6 Capital Square"
         },
         {
-            "name": "7 Capital Square",
+            "name": "Clocktower",
             "x": -3281,
             "z": 8046,
-            "owner": "New Callisto Clocktower",
+            "owner": "City of New Callisto",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
