@@ -1168,15 +1168,15 @@
             "address": "101 Iron Cct"
         },
         {
-            "name": "Private",
+            "name": "102 Iron Cct",
             "x": -3363,
             "z": 8187,
-            "owner": "VEC corporation",
+            "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3363.8187.102IronCct",
-            "color": "#183dde",
+            "color": "#03f4fc",
             "image": "",
             "type": "Residential",
             "address": "102 Iron Cct"
@@ -1798,7 +1798,7 @@
             "address": "Capital Square Unit 4"
         },
         {
-            "name": "Store",
+            "name": "Woolworth's",
             "x": -3344,
             "z": 8138,
             "owner": "RealityTheory_",
