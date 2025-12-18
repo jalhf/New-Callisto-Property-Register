@@ -1266,15 +1266,15 @@
             "address": "15 Iron Circuit"
         },
         {
-            "name": "Wehtun",
+            "name": "Sold",
             "x": -3270,
             "z": 8132,
-            "owner": "Zombie_Striker",
-            "sale_link": "https://discord.com/channels/1014544662285013053/1241139693945618443",
+            "owner": "RealityTheory_",
+            "sale_link": "https://discord.com/channels/1014544662285013053/1450242821121380494",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3270.8132.2IronCircuit",
-            "color": "#2c7d27",
+            "color": "#8fda8b",
             "image": "",
             "type": "Commercial",
             "address": "2 Iron Circuit"
@@ -1364,15 +1364,15 @@
             "address": "5 Iron Circuit"
         },
         {
-            "name": "Available",
+            "name": "Sold",
             "x": -3322,
             "z": 8144,
-            "owner": "",
-            "sale_link": "",
+            "owner": "Asherboy",
+            "sale_link": "https://discord.com/channels/1014544662285013053/1450243427101839523",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit",
-            "color": "#eff542",
+            "color": "#8fda8b",
             "image": "",
             "type": "Commercial",
             "address": "6 Iron Circuit"
@@ -1462,21 +1462,21 @@
             "address": "3 Jalhf St"
         },
         {
-            "name": "",
+            "name": "Sold",
             "x": -3254,
             "z": 8095,
-            "owner": "Frostwarrior112",
-            "sale_link": "https://discord.com/channels/1014544662285013053/1219692881107746876",
+            "owner": "RealityTheory_",
+            "sale_link": "https://discord.com/channels/1014544662285013053/1450241962040098939",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8095.4JalhfSt",
-            "color": "#2c7d27",
+            "color": "#8fda8b",
             "image": "",
             "type": "Commercial",
             "address": "4 Jalhf St"
         },
         {
-            "name": "",
+            "name": "In Transition",
             "x": -3254,
             "z": 8082,
             "owner": "RegencyShadow40",
@@ -1770,7 +1770,7 @@
             "address": "Capital Square Unit 2"
         },
         {
-            "name": "Available",
+            "name": "Available Stall",
             "x": -3320,
             "z": 8092,
             "owner": "",
@@ -1784,7 +1784,7 @@
             "address": "Capital Square Unit 3"
         },
         {
-            "name": "Available",
+            "name": "Available Stall",
             "x": -3326,
             "z": 8082,
             "owner": "",
@@ -1840,7 +1840,7 @@
             "address": "3 Trade Terrace"
         },
         {
-            "name": "Coming Soon",
+            "name": "Sold",
             "x": -3367,
             "z": 8037,
             "owner": "Cesarrr505",
@@ -1882,7 +1882,7 @@
             "address": "6 Trade Terrace"
         },
         {
-            "name": "Coming Soon",
+            "name": "Sold",
             "x": -3366,
             "z": 8012,
             "owner": "_RedSnapper",
@@ -1910,7 +1910,7 @@
             "address": "8 Trade Terrace"
         },
         {
-            "name": "Coming Soon",
+            "name": "Sold",
             "x": -3343,
             "z": 7989,
             "owner": "wrightyryan",
