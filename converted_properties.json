@@ -482,15 +482,15 @@
             "address": "1 Copper Circuit"
         },
         {
-            "name": "10 Copper Circuit",
+            "name": "Private",
             "x": -3208,
             "z": 8103,
-            "owner": "",
-            "sale_link": "https://discord.com/channels/1014544662285013053/1281962019074871418",
+            "owner": "demobottle12",
+            "sale_link": "https://discord.com/channels/1014544662285013053/1448068425531261119/1451358704677949494",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3208.8103.10CopperCircuit",
-            "color": "#18cade",
+            "color": "#183dde",
             "image": "",
             "type": "Residential",
             "address": "10 Copper Circuit"
