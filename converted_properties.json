@@ -636,7 +636,7 @@
             "address": "9 Copper Circuit"
         },
         {
-            "name": "Industry District",
+            "name": "1 Lava Loop",
             "x": -3403,
             "z": 8130,
             "owner": "",
@@ -647,10 +647,10 @@
             "color": "#03f4fc",
             "image": "",
             "type": "Residential",
-            "address": "Industry District"
+            "address": "1 Lava Loop"
         },
         {
-            "name": "Industry District",
+            "name": "2 Lava Loop",
             "x": -3389,
             "z": 8139,
             "owner": "",
@@ -661,66 +661,10 @@
             "color": "#03f4fc",
             "image": "",
             "type": "Residential",
-            "address": "Industry District"
+            "address": "2 Lava Loop"
         },
         {
-            "name": "Industry District",
-            "x": -3371,
-            "z": 8138,
-            "owner": "",
-            "sale_link": "",
-            "level": 4,
-            "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3371.8138.IndustryDistrict",
-            "color": "#03f4fc",
-            "image": "",
-            "type": "Residential",
-            "address": "Industry District"
-        },
-        {
-            "name": "Industry District",
-            "x": -3367,
-            "z": 8123,
-            "owner": "",
-            "sale_link": "",
-            "level": 4,
-            "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3367.8123.IndustryDistrict",
-            "color": "#03f4fc",
-            "image": "",
-            "type": "Residential",
-            "address": "Industry District"
-        },
-        {
-            "name": "Industry District",
-            "x": -3381,
-            "z": 8122,
-            "owner": "",
-            "sale_link": "",
-            "level": 4,
-            "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3381.8122.IndustryDistrict",
-            "color": "#03f4fc",
-            "image": "",
-            "type": "Residential",
-            "address": "Industry District"
-        },
-        {
-            "name": "Industry District",
-            "x": -3394,
-            "z": 8121,
-            "owner": "",
-            "sale_link": "",
-            "level": 4,
-            "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3394.8121.IndustryDistrict",
-            "color": "#03f4fc",
-            "image": "",
-            "type": "Residential",
-            "address": "Industry District"
-        },
-        {
-            "name": "Industry District",
+            "name": "3 Lava Loop",
             "x": -3399,
             "z": 8149,
             "owner": "",
@@ -731,10 +675,10 @@
             "color": "#03f4fc",
             "image": "",
             "type": "Residential",
-            "address": "Industry District"
+            "address": "3 Lava Loop"
         },
         {
-            "name": "Industry District",
+            "name": "4 Lava Loop",
             "x": -3390,
             "z": 8157,
             "owner": "",
@@ -745,24 +689,24 @@
             "color": "#03f4fc",
             "image": "",
             "type": "Residential",
-            "address": "Industry District"
+            "address": "4 Lava Loop"
         },
         {
-            "name": "Industry District",
-            "x": -3364,
-            "z": 8154,
+            "name": "5 Lava Loop",
+            "x": -3371,
+            "z": 8138,
             "owner": "",
             "sale_link": "",
             "level": 4,
             "zoom": 4,
-            "id": "com.github.jalhf.newcallisto.3364.8154.IndustryDistrict",
+            "id": "com.github.jalhf.newcallisto.3371.8138.IndustryDistrict",
             "color": "#03f4fc",
             "image": "",
             "type": "Residential",
-            "address": "Industry District"
+            "address": "5 Lava Loop"
         },
         {
-            "name": "Industry District",
+            "name": "6 Lava Loop",
             "x": -3361,
             "z": 8147,
             "owner": "",
@@ -773,7 +717,63 @@
             "color": "#03f4fc",
             "image": "",
             "type": "Residential",
-            "address": "Industry District"
+            "address": "6 Lava Loop"
+        },
+        {
+            "name": "Vanaheim's Descent",
+            "x": -3367,
+            "z": 8123,
+            "owner": "HassDaMahn",
+            "sale_link": "",
+            "level": 4,
+            "zoom": 4,
+            "id": "com.github.jalhf.newcallisto.3367.8123.IndustryDistrict",
+            "color": "#2c7d27",
+            "image": "",
+            "type": "Residential",
+            "address": "7 Lava Loop"
+        },
+        {
+            "name": "8 Lava Loop",
+            "x": -3381,
+            "z": 8122,
+            "owner": "",
+            "sale_link": "",
+            "level": 4,
+            "zoom": 4,
+            "id": "com.github.jalhf.newcallisto.3381.8122.IndustryDistrict",
+            "color": "#03f4fc",
+            "image": "",
+            "type": "Residential",
+            "address": "8 Lava Loop"
+        },
+        {
+            "name": "9 Lava Loop",
+            "x": -3394,
+            "z": 8121,
+            "owner": "",
+            "sale_link": "",
+            "level": 4,
+            "zoom": 4,
+            "id": "com.github.jalhf.newcallisto.3394.8121.IndustryDistrict",
+            "color": "#03f4fc",
+            "image": "",
+            "type": "Residential",
+            "address": "9 Lava Loop"
+        },
+        {
+            "name": "24 Iron Cct",
+            "x": -3364,
+            "z": 8154,
+            "owner": "",
+            "sale_link": "",
+            "level": 4,
+            "zoom": 4,
+            "id": "com.github.jalhf.newcallisto.3364.8154.IndustryDistrict",
+            "color": "#03f4fc",
+            "image": "",
+            "type": "Residential",
+            "address": "23 Iron Cct"
         },
         {
             "name": "IF Exp Exchange",
@@ -846,7 +846,7 @@
             "address": "4 Feline Ave"
         },
         {
-            "name": "Store",
+            "name": "Sakura Ink",
             "x": -3336,
             "z": 8002,
             "owner": "IAmDoktah",
@@ -860,7 +860,7 @@
             "address": "1 Glacial Walk"
         },
         {
-            "name": "Store",
+            "name": "Sakura Ink",
             "x": -3324,
             "z": 8004,
             "owner": "IAmDoktah",
