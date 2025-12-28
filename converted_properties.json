@@ -748,15 +748,15 @@
             "address": "8 Lava Loop"
         },
         {
-            "name": "9 Lava Loop",
+            "name": "Private",
             "x": -3394,
             "z": 8121,
-            "owner": "",
-            "sale_link": "",
+            "owner": "Xenos",
+            "sale_link": "https://discord.com/channels/523673816698978313/1431421560971067483/1454958786123927675",
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3394.8121.IndustryDistrict",
-            "color": "#03f4fc",
+            "color": "#183dde",
             "image": "",
             "type": "Residential",
             "address": "9 Lava Loop"
