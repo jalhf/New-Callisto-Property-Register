@@ -1364,7 +1364,7 @@
             "address": "5 Iron Circuit"
         },
         {
-            "name": "Sold",
+            "name": "Wood, Wool, and Wheres",
             "x": -3322,
             "z": 8144,
             "owner": "Asherboy",
@@ -1372,7 +1372,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3322.8144.6IronCircuit",
-            "color": "#8fda8b",
+            "color": "#2c7d27",
             "image": "",
             "type": "Commercial",
             "address": "6 Iron Circuit"
@@ -1484,7 +1484,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3254.8082.5JalhfSt",
-            "color": "#2c7d27",
+            "color": "#8fda8b",
             "image": "",
             "type": "Commercial",
             "address": "5 Jalhf St"
