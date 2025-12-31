@@ -1882,7 +1882,7 @@
             "address": "6 Trade Terrace"
         },
         {
-            "name": "Sold",
+            "name": "Karydian Emporium",
             "x": -3366,
             "z": 8012,
             "owner": "_RedSnapper",
@@ -1890,7 +1890,7 @@
             "level": 4,
             "zoom": 4,
             "id": "com.github.jalhf.newcallisto.3366.8012.7TradeTerrace_RedSnapperSale",
-            "color": "#8fda8b",
+            "color": "#2c7d27",
             "image": "",
             "type": "Commercial",
             "address": "7 Trade Terrace"
